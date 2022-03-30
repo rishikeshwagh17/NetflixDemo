@@ -25,7 +25,7 @@ const Navbar = () => {
               <SearchIcon className="icon"/>
               <span>KID</span>
               <NotificationsIcon className="icon"/>
-              <img src="https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="user photo" />
+              <img src="https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
               
               <div className="profile">
               <ArrowDropDownIcon className="icon"/>
